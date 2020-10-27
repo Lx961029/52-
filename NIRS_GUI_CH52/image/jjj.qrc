@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>access_close_exit_logout_sign_out_128px_1225473_easyicon.net.png</file>
+        <file>params_128px_1158068_easyicon.net.png</file>
+        <file>settings_115.24904214559px_1231079_easyicon.net.png</file>
+        <file>start_102.82503192848px_1231086_easyicon.net.png</file>
+        <file>View_Width_128px_1178984_easyicon.net.png</file>
+    </qresource>
+</RCC>
